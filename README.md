@@ -1,2 +1,2 @@
-# Electricity_Consumption_Projection_using_ANN
-Computer Engineering students from Technological Institute of the Philippines develop an Electricity Consumption Forecasting Web Application
+# energyconsumption_forecasting
+Energy Consumption Projection Using Artificial Neural Network 
