@@ -19,7 +19,7 @@ Reference: https://www.philstar.com/business/2022/12/25/2233146/philippine-power
 
 The project aims to focus on developing a web application for Electricity Consumption using Artificial Neural Network. ANNs are a family of machine learning models that are modeled after the neural architecture of the human brain. These models have shown to be particularly good at recognizing complicated patterns and making precise predictions. This web-based system uses ANN to predict electricity consumption since it is common in the field of Machine Learning or AI. The project aims to provide citizens and companies with a reliable and efficient energy delivery, not just to increase operational efficiency.
 
-Web App Link: [https://electricity-consumption-forecasting-pta5ecfcqn785sjszrhdxg.streamlit.app/](https://electricityconsumptionprojectionusingann-rbafjdgb2neqwguawfd6b.streamlit.app/Short_Term_Projection)
+Web App Link: https://electricityconsumptionprojectionusingann-rbafjdgb2neqwguawfd6b.streamlit.app/
 
 ## Artificial Neural Network Algorithms
 
