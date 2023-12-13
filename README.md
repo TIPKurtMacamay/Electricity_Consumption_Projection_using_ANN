@@ -1,7 +1,7 @@
 # Projection Web Application for Electricity Consumption using an Artificial Neural Network
 
 ## **The Problem**
-![image](https://github.com/TIPKurtMacamay/Electricity-Consumption-Projection/assets/133735418/bdb73a93-968c-4181-8f01-7a450e234c8e)
+![image](https://github.com/TIPKurtMacamay/Electricity_Consumption_Projection_using_ANN/assets/133735418/9c82fc5c-6972-4eb7-9676-efec42c91fd3)
 
 _Meralco linemen install electrical wiring along Commonwealth Avenue in Quezon City._
 
